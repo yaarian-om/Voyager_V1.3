@@ -1,0 +1,23 @@
+############################ All Forms ################################
+FormBorderStyle : FixedDialog
+MaximizeBox : False
+StartPosition : CenterScreen
+
+############################ All Buttons ###############################
+Cursor : Hand
+TextImageRelation : TextBeforeImage
+############################# Login page ##############################
+Fonts color : Green-Yellow
+label back-color : Transparent
+textbox back-color : ControlDark
+######################### Dashboard Buttons ###########################
+backColor : same as panelColor
+flatStyle : flat
+flatAppearance->BorderSize : 0
+Dock : top
+TextImageRelation : TextBeforeImage
+padding : 3,0,7,0 (left,up,right,down)
+######################## Dashboard Panel Images#########################
+image_Size : 671, 226 (W,D)
+########################## Destination places ##########################
+combox.DropDownStyle = DropDownList
